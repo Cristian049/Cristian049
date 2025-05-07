@@ -9,16 +9,17 @@ I'm passionate about **Java**, **Web Development**, and I'm continuously learnin
 
 ## GitHub Stats:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cristian049&show_icons=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cristian049&show_icons=true&theme=tokyonight)
 
 ## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,express,mongodb,npm,bootstrap" />
 </p>
+
 ## Top Languages:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian049&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian049&layout=compact&theme=tokyonight)
 
 ## 📌 About Me
 
