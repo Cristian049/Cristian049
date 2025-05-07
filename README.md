@@ -20,9 +20,12 @@ I'm passionate about **Java**, **Web Development**, and I'm continuously learnin
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian049&layout=compact)
 
-## About Me:
-- 👨‍💻 **Job**: Java programming student.
-- 🧑‍🎓 **Education**: Starting courses at CodersLab.
-- 🔭 **Interests**: Open-source projects and emerging technologies.
-- 🌱 **Learning**: Web and mobile application development.
-- 🤝 **Contact**: [LinkedIn](https://www.linkedin.com/in/cristian-suiu-a7558a204/)
+## 📌 About Me
+
+- 🎓 **Education**: Computer Science student & currently enrolled at CodersLab/Trendyol Bootcamp.
+- 🌱 **Learning**: Full-stack web development (HTML, CSS, JavaScript, Java, React, Node.js, MongoDB).
+- 🚀 **Goal**: Eager to land my first job as a Frontend, Backend, or Full-Stack Web Developer.
+- 💡 **Interests**: Building real-world projects, exploring new technologies, and growing as a developer.
+- 📫 **Contact**: [LinkedIn](https://www.linkedin.com/in/cristian-suiu-a7558a204/)
+
+
