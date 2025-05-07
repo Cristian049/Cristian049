@@ -4,7 +4,7 @@ I'm passionate about **Java**, **Web Development**, and I'm continuously learnin
 
 ## Recent Projects:
 - [WeatherSite](https://github.com/Cristian049/WeatherSite) - A weather forecast website.
-- [CandySite](https://github.com/Cristian049/CandySite) - Project for product management.
+- [CandySite](https://github.com/Cristian049/CandySite) - Project for CSS styles.
 - [YelpCamp](https://github.com/Cristian049/YelpCamp) - Application for camping reviews.
 
 ## GitHub Stats:
