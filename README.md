@@ -14,7 +14,7 @@ I'm passionate about **Java**, **Web Development**, and I'm continuously learnin
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,express,mongodb,npm,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,express,mongodb,npm,bootstrap,git" />
 </p>
 
 ## Top Languages:
