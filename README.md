@@ -3,12 +3,12 @@
 I'm passionate about **Java**, **Web Development**, and I'm continuously learning new technologies.
 
 ## 🚀 Recent Projects:
-
-- [WeatherSite](https://github.com/Cristian049/WeatherSite) – A weather forecast website.
-- [CandySite](https://github.com/Cristian049/CandySite) – Project for CSS styles.
+- [Redesign Challange](https://github.com/Cristian049/Redesign-Challenge) - A React Redesigned Page (https://redesign-challenge.vercel.app/)
 - [YelpCamp](https://github.com/Cristian049/YelpCamp) – Application for camping reviews.
-- [small_react_exercises](https://github.com/Cristian049/small_react_exercises) – A collection of small React components and exercises.
 - [usepopcorn_prj](https://github.com/Cristian049/usepopcorn_prj) – A mini React app using a movie API with star rating, watched list, and wishlist functionality.
+- [small_react_exercises](https://github.com/Cristian049/small_react_exercises) – A collection of small React components and exercises.
+- [CandySite](https://github.com/Cristian049/CandySite) – Project for CSS styles.
+- [WeatherSite](https://github.com/Cristian049/WeatherSite) – A weather forecast website.
 
 ---
 
