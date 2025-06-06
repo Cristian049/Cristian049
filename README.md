@@ -4,7 +4,7 @@ I'm passionate about **Java**, **Web Development**, and I'm continuously learnin
 
 ## 🚀 Recent Projects:
 - [Redesign Challange](https://github.com/Cristian049/Redesign-Challenge) - A React Redesigned Page (https://redesign-challenge.vercel.app/)
-- [YelpCamp](https://github.com/Cristian049/YelpCamp) – Application for camping reviews. (https://yelpcamp-production-4438.up.railway.app/campgrounds) , (https://yelpcamp-kob4.onrender.com/)
+- [YelpCamp](https://github.com/Cristian049/YelpCamp) – Application for camping reviews. (https://yelpcamp-kob4.onrender.com/)
 - [usepopcorn_prj](https://github.com/Cristian049/usepopcorn_prj) – A mini React app using a movie API with star rating, watched list, and wishlist functionality.
 - [small_react_exercises](https://github.com/Cristian049/small_react_exercises) – A collection of small React components and exercises.
 - [CandySite](https://github.com/Cristian049/CandySite) – Project for CSS styles.
